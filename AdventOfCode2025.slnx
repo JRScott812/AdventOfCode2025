@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Day 1/Day 1.csproj" />
   <Project Path="Day 2/Day 2.csproj" Id="4bdbee78-005b-4ed5-91ef-68d8906f314e" />
+  <Project Path="Day 3/Day 3.csproj" Id="ff7afc9f-dc08-4b1b-be64-31731e8d5242" />
 </Solution>
